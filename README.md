@@ -1,0 +1,2 @@
+# Primer-upotrebe-klase-TextField
+Primer upotrebe klase TextField Primer pokazuje kako se može predvideti prostor u GUI interfejsu u kome se može uneti kraći tekst i time izazvati odgovarajući događaj akcije. Na slici 3 prikazan je GUI kreiran u prethodnim primerima   Slika-3 GUI s poljem teksta, kreiran i drugim klasama na putu nasleđivanja Klasa TextFieldDemo proširuje RadioButtonDemo (linija 7) i dodaje natpis i polje teksta u kome korisnik može da unese novi tekst (linije 18-21). Posle unosa novog teksta pritiskom tastera Enter, 
